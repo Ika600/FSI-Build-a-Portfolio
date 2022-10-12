@@ -1,0 +1,40 @@
+div {
+    border: 4px;
+    border-color: navy;
+    border-style: solid;
+    font-size: 40px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+body {
+    background-color: #121212;
+    
+}
+h1 {
+    color: #bcd600;
+}
+h2 {
+    color: #bcd600;
+    text-align: center;
+}
+h3{
+    color: #fffffd;
+    text-align: center;
+}
+p{
+    color: #fffffd;
+    text-align: center;
+}
+img {
+    position:absolute;
+    top: 8px;
+    right: 8px;
+    height: 200px;
+    width: 200px;
+    border: 2px;
+    border-style: solid;
+    border-color: blue;
+    cursor: pointer;
+
+}
